@@ -1,0 +1,2 @@
+# CodeClause_Plagiarism_detector_using_python_Task1
+Plagiarism checker using Python
